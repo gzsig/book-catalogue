@@ -1,0 +1,34 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  all: unset;
+  font-size: 18px;
+  padding: 10px 0 10px 0;
+  display: block;
+  width: 300px;
+  border: none;
+  border-bottom: 1px solid #757575;
+}
+
+button {
+  all: unset;
+  font: 400 14px system-ui;
+  cursor: pointer;
+  min-height: 1em;
+  border: none;
+  vertical-align: baseline;
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  padding: 0.78571429em 1.5em 0.78571429em;
+  line-height: 1em;
+  text-decoration: none;
+  user-select: none;
+  background: transparent none !important;
+  border-radius: 0.28571429rem;
+  box-shadow: 0 0 0 1px #282a37 inset;
+  color: #282a37;
+  text-align: center;
+  margin: 6px;
+}

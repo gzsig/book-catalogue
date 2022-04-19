@@ -5,5 +5,5 @@
     "lib": ["DOM", "ES2017"],
     "outFile": "./script.js"
   },
-  "files": ["./src/index.ts"]
+  "files": ["./src/fetch.ts", "./src/dom.ts", "./src/index.ts"]
 }
